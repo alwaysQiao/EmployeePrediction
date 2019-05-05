@@ -11,4 +11,4 @@
 2. Feature engineering
 3. Modeling
 
-#### This is the second try to handle the Employee dataset. A complete data analysis and data mining process is realized, including exploratory data analysis, feature engineering, analysis by different models and model evaluation.
+#### This is the second try to handle the Employee dataset. A complete data analysis and data mining process is realized, including exploratory data analysis, feature engineering, analysis by different models, such as KNN, Decision tree, ANN.
